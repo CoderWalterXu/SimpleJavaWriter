@@ -1,0 +1,2 @@
+include ':app', ':Compiler'
+rootProject.name='SimpleJavaWriter'
